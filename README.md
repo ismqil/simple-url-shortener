@@ -4,6 +4,6 @@
 ![31](/preview/resim_2021-10-27_181942.png)
 ### Post Page;
 ![52](/preview/resim_2021-10-27_182002.png)
-### Database page;
+### Database page (/public/database.json);
 #### You can remove this by deleting line 26.
 ![69](/preview/resim_2021-10-27_182113.png)
